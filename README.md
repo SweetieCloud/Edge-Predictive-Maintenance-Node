@@ -1,4 +1,4 @@
-# 🚀 Smart Edge Predictive Maintenance Node (Tiny Machine Learning on STM32)
+# 🚀 Edge Predictive Maintenance Node (Tiny Machine Learning on STM32)
 
 ![STM32](https://img.shields.io/badge/STM32-F411CEU6-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 ![TinyML](https://img.shields.io/badge/AI-TinyML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
