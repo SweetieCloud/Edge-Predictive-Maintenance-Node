@@ -1,5 +1,11 @@
 # 🚀 Smart Edge Predictive Maintenance Node (TinyML on STM32)
 
+![STM32](https://img.shields.io/badge/STM32-F411CEU6-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![TinyML](https://img.shields.io/badge/AI-TinyML-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![C Language](https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Scripts-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Sensor](https://img.shields.io/badge/Sensor-MPU6050-4CAF50?style=for-the-badge)
+
 ## 📌 Overview
 
 This project implements a **Real-Time Edge AI Predictive Maintenance System** directly on an STM32F411 microcontroller. By leveraging an MPU6050 6-axis accelerometer and gyroscope, the system monitors physical vibrations and uses a **Random Forest Machine Learning model** embedded inside the MCU to classify the operational state of a machine (Normal, Light Vibration/Anomaly, Hard Shake/Danger) with **zero-latency response**.
