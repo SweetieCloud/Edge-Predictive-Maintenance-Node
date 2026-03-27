@@ -64,9 +64,9 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
   * Set the Baud Rate to **115200**.
   * You will see real-time classifications similar to:
     ```text
-    TRANG THAI: BINH THUONG | Std_Dev: 0.0123
-    CANH BAO: RUNG NHE      | Std_Dev: 0.1450
-    NGUY HIEM: LAC MANH!    | Std_Dev: 0.9850
+    STATUS: NORMAL 
+    WARNING: SLIGHT VIBRATION    
+    DANGER: SHAKE FIERCELY!   
     ```
 
 ## 🔮 Future Improvements
