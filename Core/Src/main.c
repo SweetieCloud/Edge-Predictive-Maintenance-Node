@@ -142,17 +142,17 @@ int main(void)
         if (predicted_class == 0)
         {
           HAL_GPIO_WritePin(GPIOA, GPIO_PIN_1, GPIO_PIN_SET); // LED XANH LÁ
-          printf("TRANG THAI: BINH THUONG\n");
+          printf("STATUS: NORMAL\n");
         }
         else if (predicted_class == 1)
         {
           HAL_GPIO_WritePin(GPIOA, GPIO_PIN_2, GPIO_PIN_SET); // LED VÀNG
-          printf("CANH BAO: RUNG NHE\n");
+          printf("WARNING: SLIGHT VIBRATION\n");
         }
         else if (predicted_class == 2)
         {
           HAL_GPIO_WritePin(GPIOA, GPIO_PIN_3, GPIO_PIN_SET); // LED ĐỎ
-          printf("NGUY HIEM: LAC MANH!\n");
+          printf("DANGER: SHAKE FIERCELY!\n");
         }
 
         // f. Trượt cửa sổ (Overlap 50%)
