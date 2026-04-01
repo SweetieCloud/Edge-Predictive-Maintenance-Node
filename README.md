@@ -18,10 +18,10 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
 
 ---
 
-## 🎬 Demo
+## 🎬 Video Demo
 
-[![Watch Demo](https://img.youtube.com/vi/VqhnAK_nB5U/0.jpg)]
-(https://www.youtube.com/watch?v=VqhnAK_nB5U)
+Experience the project in action:  
+👉 https://www.youtube.com/watch?v=VqhnAK_nB5U
 
 ---
 ## ✨ Key Features
