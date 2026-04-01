@@ -29,7 +29,7 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
 
   * **MCU:** STM32F411CEU6 (Black Pill)
   * **Sensor:** MPU6050 (I2C interface)
-  * **Indicators:** 3x LEDs (Green, Yellow, Red) + 3x 220Ω Resistors
+  * **Indicators:** 3x LEDs (Green, Yellow, Red) 
   * **Debugger/Programmer:** ST-Link V2
   * **Serial Communication:** CP2102 USB-to-TTL module (for UART logging)
 
