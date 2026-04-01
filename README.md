@@ -84,7 +84,7 @@ Experience the project in action:
 > **Real-time Monitoring Dashboard on ArduinoIDE:**
 > 
 > 
-> <img src="images/monitor.png" width="900">
+> <img src="images/monitor.png" width="700">
 > 
 > 
 
