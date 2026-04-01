@@ -12,6 +12,10 @@ This project implements a **Real-Time Edge AI Predictive Maintenance System** di
 
 Unlike traditional cloud-based IoT systems, this device performs **100% of the inferencing at the edge**, ensuring real-time alerts, high privacy, and low power consumption without requiring an internet connection.
 
+---
+<img src="images/STM32copy.jpg" width="500">
+---
+
 ## ✨ Key Features
 
   * **TinyML Implementation:** A Random Forest classifier trained in Python (`scikit-learn`) and compiled into pure, lightweight C code using `m2cgen` to run on a Cortex-M4 processor.
@@ -68,6 +72,15 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
     WARNING: SLIGHT VIBRATION    
     DANGER: SHAKE FIERCELY!   
     ```
+
+> **Real-time Monitoring Dashboard on ArduinoIDE:**
+> 
+> 
+> <img src="images/monitor.png" width="900">
+> 
+> 
+
+----
 
 ## 🔮 Future Improvements
 
