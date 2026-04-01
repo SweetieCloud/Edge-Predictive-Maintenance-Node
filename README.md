@@ -18,6 +18,9 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
 
 ---
 
+Video Demo: https://www.youtube.com/watch?v=VqhnAK_nB5U
+
+---
 ## ✨ Key Features
 
   * **TinyML Implementation:** A Random Forest classifier trained in Python (`scikit-learn`) and compiled into pure, lightweight C code using `m2cgen` to run on a Cortex-M4 processor.
