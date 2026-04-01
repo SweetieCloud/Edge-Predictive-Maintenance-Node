@@ -13,7 +13,9 @@ This project implements a **Real-Time Edge AI Predictive Maintenance System** di
 Unlike traditional cloud-based IoT systems, this device performs **100% of the inferencing at the edge**, ensuring real-time alerts, high privacy, and low power consumption without requiring an internet connection.
 
 ---
+
 <img src="images/STM32copy.jpg" width="500">
+
 ---
 
 ## ✨ Key Features
