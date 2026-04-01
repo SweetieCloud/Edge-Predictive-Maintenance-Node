@@ -22,7 +22,9 @@ Unlike traditional cloud-based IoT systems, this device performs **100% of the i
 
 👉 Click the demo here 
 
-[![Watch Demo](https://img.youtube.com/vi/VqhnAK_nB5U/0.jpg)](https://www.youtube.com/watch?v=VqhnAK_nB5U)
+<a href="https://www.youtube.com/watch?v=VqhnAK_nB5U">
+  <img src="images/EDGE.jpg" width="500">
+</a>
 
 ---
 ## ✨ Key Features
